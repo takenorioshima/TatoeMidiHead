@@ -89,7 +89,7 @@ public class Brain : MonoBehaviour
         cam45.DOColor(colorList[colorIndex], 0.2f);
         cam45Script.isWired = false;
         eriLasers.SetActive(false);
-        takeLasers.SetActive(false);        
+        takeLasers.SetActive(false);
     }
 
     void Update()
