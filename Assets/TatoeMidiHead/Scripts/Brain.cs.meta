@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 53e0bb615102c45f88edb57bdff30bca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eri: {instanceID: 0}
+  - eriFace: {instanceID: 0}
+  - eriHat: {instanceID: 0}
+  - take: {instanceID: 0}
+  - takeFace: {instanceID: 0}
+  - takeGlasses: {instanceID: 0}
+  - eriLasers: {fileID: -927199367670048503, guid: f25b1a24d7afc4f31a98fe6c9f367a32,
+      type: 3}
+  - takeLasers: {fileID: -927199367670048503, guid: e5f34eb4b19bb4e4faf9c0cf79b7d62c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

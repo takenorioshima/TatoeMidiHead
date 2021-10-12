@@ -1,0 +1,1896 @@
+fileFormatVersion: 2
+guid: f25b1a24d7afc4f31a98fe6c9f367a32
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      74: -7724132436536592749
+    second: Strow|BD
+  - first:
+      74: 5942962813787369103
+    second: Strow|BD.001
+  - first:
+      74: 6632583906423403847
+    second: Strow|BD.002
+  - first:
+      74: -1614709831929223160
+    second: Strow|BD.003
+  - first:
+      74: -1263446973769149375
+    second: Strow|BD.004
+  - first:
+      74: -3031534631755448306
+    second: Strow|BD.005
+  - first:
+      74: 5360805586149746894
+    second: Strow|BD.006
+  - first:
+      74: -2947843151353565416
+    second: Strow|BD.006Action
+  - first:
+      74: -6619734664028892492
+    second: Strow|BD.007
+  - first:
+      74: -2469429680208692534
+    second: Strow|BD.008
+  - first:
+      74: 6068857165194107894
+    second: Strow|BD.009
+  - first:
+      74: -5036930976451076166
+    second: Strow|BD.010
+  - first:
+      74: -1399787218700808964
+    second: Strow|Cam MainAction.001
+  - first:
+      74: 879930962507704997
+    second: Strow|Cam MainAction.002
+  - first:
+      74: -6964931232844162424
+    second: Strow|Cam OHAction
+  - first:
+      74: 4281168841079132571
+    second: Strow|Eri Wait.001
+  - first:
+      74: -4283350029691630782
+    second: Strow|Eri Wait.002
+  - first:
+      74: 7732713560472490930
+    second: Strow|Eri Wait.003
+  - first:
+      74: -150761782766674012
+    second: Strow|Eri Wait.004
+  - first:
+      74: 776464021004081287
+    second: Strow|Eri Wait.005
+  - first:
+      74: -8253863627888338238
+    second: Strow|Eri Wait.006
+  - first:
+      74: -4861623028867561260
+    second: Strow|Eri Wait.007
+  - first:
+      74: -8730616352379242831
+    second: Strow|Eri Wait.008
+  - first:
+      74: 2851132595533059008
+    second: Strow|Eri Wait.009
+  - first:
+      74: 8867025427916613201
+    second: Strow|Eri Wait.010
+  - first:
+      74: -2541099097493563654
+    second: Strow|Eri Wait.011
+  - first:
+      74: -4774405526886331397
+    second: Strow|Eri Wait.012
+  - first:
+      74: 1829135417789227188
+    second: Strow|Legs.001Action
+  - first:
+      74: 5489342636823397895
+    second: Strow|Legs.009Action
+  - first:
+      74: 5997529025902448155
+    second: Strow|Legs.009Action.001
+  - first:
+      74: -2996498142897730616
+    second: Strow|Legs.011Action
+  - first:
+      74: -6299898019767197742
+    second: Strow|Legs.011Action.001
+  - first:
+      74: 228335225089301940
+    second: Strow|Legs.012Action
+  - first:
+      74: -1097433960470628657
+    second: Strow|Legs.012Action.001
+  - first:
+      74: -4318439583792476098
+    second: Strow|Legs.013Action
+  - first:
+      74: -6594801968549895753
+    second: Strow|Legs.013Action.003
+  - first:
+      74: -828185822421773434
+    second: Strow|Legs.014Action
+  - first:
+      74: 4555076474544305206
+    second: Strow|Legs.014Action.001
+  - first:
+      74: 4141035989769033797
+    second: Strow|Legs.015Action
+  - first:
+      74: 1614493722986784041
+    second: Strow|Legs.015Action.002
+  - first:
+      74: 8190186003678225261
+    second: Strow|Legs.016Action
+  - first:
+      74: 4631793348858293548
+    second: Strow|Legs.016Action.001
+  - first:
+      74: -5786869191416904378
+    second: Strow|Legs.017Action
+  - first:
+      74: 1753444664263783162
+    second: Strow|Legs.017Action.002
+  - first:
+      74: -8819607421689539095
+    second: Strow|Legs.018Action
+  - first:
+      74: -3256532886243943903
+    second: Strow|Legs.018Action.001
+  - first:
+      74: -1219560978166378184
+    second: Strow|Legs.024Action
+  - first:
+      74: 9115495077811058433
+    second: Strow|Legs.024Action.003
+  - first:
+      74: -9016961035382083178
+    second: Strow|Legs.025Action
+  - first:
+      74: -7230680720323086255
+    second: Strow|Legs.025Action.003
+  - first:
+      74: -4467950442585169574
+    second: Strow|Legs.028Action
+  - first:
+      74: -2420777465279166877
+    second: Strow|Legs.028Action.003
+  - first:
+      74: -4729978032732228462
+    second: Strow|Legs.030Action
+  - first:
+      74: -5991669140214643571
+    second: Strow|Legs.030Action.003
+  - first:
+      74: -8651812601308114568
+    second: Strow|Pa BlueAction.001
+  - first:
+      74: 5776664136008056150
+    second: Strow|Pa BlueAction.002
+  - first:
+      74: 3491302798570281384
+    second: Strow|Pa BlueAction.003
+  - first:
+      74: -6232837653695882309
+    second: Strow|Pa BlueAction.004
+  - first:
+      74: 6010450538033875420
+    second: Strow|Pa BlueAction.005
+  - first:
+      74: 8481405771725559747
+    second: Strow|Pa BlueAction.006
+  - first:
+      74: 2701344468497026173
+    second: Strow|Pa BlueAction.009
+  - first:
+      74: 2042924471205402803
+    second: Strow|Pa BlueAction.010
+  - first:
+      74: 2545748100440284598
+    second: Strow|Pa BlueAction.011
+  - first:
+      74: 6539816785453326169
+    second: Strow|Pa BlueAction.012
+  - first:
+      74: -3708204114698278755
+    second: Strow|Pa BlueAction.013
+  - first:
+      74: 6249116262180200767
+    second: Strow|Pa BlueAction.014
+  - first:
+      74: 4617195790857106498
+    second: Strow|Pa BlueAction.023
+  - first:
+      74: 997124372072293920
+    second: Strow|Pa BlueAction.024
+  - first:
+      74: -1863240563293270094
+    second: Strow|Pa BlueAction.025
+  - first:
+      74: -3255873331704175006
+    second: Strow|Pa BlueAction.026
+  - first:
+      74: -4371684999027259250
+    second: Strow|Pa BlueAction.027
+  - first:
+      74: 55965450220987694
+    second: Strow|Pa BlueAction.028
+  - first:
+      74: 1064529679156555872
+    second: Strow|Pa.001Action
+  - first:
+      74: 4145037668509358829
+    second: Strow|Pa.001Action.001
+  - first:
+      74: -1893759204097142861
+    second: Strow|Pa.001Action.002
+  - first:
+      74: 3756735265749700083
+    second: Strow|Pa.001Action.003
+  - first:
+      74: -8265437561145996335
+    second: Strow|Pa.001Action.004
+  - first:
+      74: 2787994863924095721
+    second: Strow|Pa.001Action.005
+  - first:
+      74: 642256144234139039
+    second: Strow|Pa.001Action.006
+  - first:
+      74: -5551213716354823388
+    second: Strow|Pa.001Action.007
+  - first:
+      74: 4938894590619971720
+    second: Strow|Pa.001Action.009
+  - first:
+      74: 5832946990089803529
+    second: Strow|Pa.001Action.011
+  - first:
+      74: 997695434260784466
+    second: Strow|Pa.001Action.012
+  - first:
+      74: -8746404532426181066
+    second: Strow|Pa.001Action.013
+  - first:
+      74: 4077848704271399225
+    second: Strow|Pa.001Action.014
+  - first:
+      74: -1334044232132345120
+    second: Strow|Pa.001Action.015
+  - first:
+      74: -7839994748658972991
+    second: Strow|Pa.001Action.016
+  - first:
+      74: -8544088396420424631
+    second: Strow|Pa.002Action.001
+  - first:
+      74: 501220804901001586
+    second: Strow|Pa.002Action.002
+  - first:
+      74: -3460281688470998062
+    second: Strow|Pa.002Action.003
+  - first:
+      74: -1527394437565402361
+    second: Strow|Pa.002Action.004
+  - first:
+      74: 3972696603205868642
+    second: Strow|Pa.002Action.005
+  - first:
+      74: -5866765816573278495
+    second: Strow|Pa.002Action.006
+  - first:
+      74: 5764375164213731666
+    second: Strow|Pa.002Action.014
+  - first:
+      74: -7267509172540844994
+    second: Strow|Pa.002Action.015
+  - first:
+      74: -8946090251772490903
+    second: Strow|Pa.002Action.016
+  - first:
+      74: 4087369211595117771
+    second: Strow|Pa.007Action
+  - first:
+      74: -3824435271760173859
+    second: Strow|Pa.007Action.002
+  - first:
+      74: -560222294530798941
+    second: Strow|Pa.015Action
+  - first:
+      74: 3891282561578075796
+    second: Strow|Pa.015Action.003
+  - first:
+      74: 6984086416426027429
+    second: Hat|BD
+  - first:
+      74: 8977507533794892401
+    second: Hat|BD.001
+  - first:
+      74: 6497603276869315197
+    second: Hat|BD.002
+  - first:
+      74: 7895794064957454866
+    second: Hat|BD.003
+  - first:
+      74: 4241752543081921187
+    second: Hat|BD.004
+  - first:
+      74: -223375641209733764
+    second: Hat|BD.005
+  - first:
+      74: -6582060495938827021
+    second: Hat|BD.006
+  - first:
+      74: 4756938260469815659
+    second: Hat|BD.006Action
+  - first:
+      74: 2762725245938058209
+    second: Hat|BD.007
+  - first:
+      74: 868403615633457007
+    second: Hat|BD.008
+  - first:
+      74: -942042919386966029
+    second: Hat|BD.009
+  - first:
+      74: 7457234135682161618
+    second: Hat|BD.010
+  - first:
+      74: 5806543262605898900
+    second: Hat|Cam MainAction.001
+  - first:
+      74: 3918668956797600964
+    second: Hat|Cam MainAction.002
+  - first:
+      74: 3385998764950403263
+    second: Hat|Cam OHAction
+  - first:
+      74: 5964092175046245288
+    second: Hat|Eri Wait.001
+  - first:
+      74: -2801273917880886692
+    second: Hat|Eri Wait.002
+  - first:
+      74: -6428691861149263909
+    second: Hat|Eri Wait.003
+  - first:
+      74: -7650948354930634614
+    second: Hat|Eri Wait.004
+  - first:
+      74: -3739124587636109956
+    second: Hat|Eri Wait.005
+  - first:
+      74: 4017054882861906937
+    second: Hat|Eri Wait.006
+  - first:
+      74: -8503351927517008284
+    second: Hat|Eri Wait.007
+  - first:
+      74: -6574779595171714004
+    second: Hat|Eri Wait.008
+  - first:
+      74: -4035220454556534390
+    second: Hat|Eri Wait.009
+  - first:
+      74: 5916590589591194673
+    second: Hat|Eri Wait.010
+  - first:
+      74: -8353242570953016030
+    second: Hat|Eri Wait.011
+  - first:
+      74: 7995343452188942765
+    second: Hat|Eri Wait.012
+  - first:
+      74: 7782061793044601246
+    second: Hat|Legs.001Action
+  - first:
+      74: -6016112610857769439
+    second: Hat|Legs.009Action
+  - first:
+      74: 3089840595228597
+    second: Hat|Legs.009Action.001
+  - first:
+      74: -7137810671407081095
+    second: Hat|Legs.011Action
+  - first:
+      74: 4409578275440189888
+    second: Hat|Legs.011Action.001
+  - first:
+      74: -4232813323020862213
+    second: Hat|Legs.012Action
+  - first:
+      74: 1915747932762980961
+    second: Hat|Legs.012Action.001
+  - first:
+      74: 6696050205015488260
+    second: Hat|Legs.013Action
+  - first:
+      74: 6931688554202157044
+    second: Hat|Legs.013Action.003
+  - first:
+      74: -7655332772658461171
+    second: Hat|Legs.014Action
+  - first:
+      74: -5615106745154936444
+    second: Hat|Legs.014Action.001
+  - first:
+      74: -805465817421866274
+    second: Hat|Legs.015Action
+  - first:
+      74: 1333309435455990805
+    second: Hat|Legs.015Action.002
+  - first:
+      74: 2900054660928220426
+    second: Hat|Legs.016Action
+  - first:
+      74: 2062019843472547643
+    second: Hat|Legs.016Action.001
+  - first:
+      74: -4443505536313077800
+    second: Hat|Legs.017Action
+  - first:
+      74: 7431231606567838859
+    second: Hat|Legs.017Action.002
+  - first:
+      74: 3342081147173755234
+    second: Hat|Legs.018Action
+  - first:
+      74: 1214122971569682892
+    second: Hat|Legs.018Action.001
+  - first:
+      74: 5126832078516959672
+    second: Hat|Legs.024Action
+  - first:
+      74: 6546625153624690635
+    second: Hat|Legs.024Action.003
+  - first:
+      74: -9064405315652866036
+    second: Hat|Legs.025Action
+  - first:
+      74: 1952096896049925419
+    second: Hat|Legs.025Action.003
+  - first:
+      74: -883664886542641276
+    second: Hat|Legs.028Action
+  - first:
+      74: 5499072881919499899
+    second: Hat|Legs.028Action.003
+  - first:
+      74: -3593205871260759298
+    second: Hat|Legs.030Action
+  - first:
+      74: -7228478752482457458
+    second: Hat|Legs.030Action.003
+  - first:
+      74: 4536852463342023030
+    second: Hat|Pa BlueAction.001
+  - first:
+      74: 5469289895882520193
+    second: Hat|Pa BlueAction.002
+  - first:
+      74: -9183978951550328563
+    second: Hat|Pa BlueAction.003
+  - first:
+      74: 834999545502284885
+    second: Hat|Pa BlueAction.004
+  - first:
+      74: 1678737609485694051
+    second: Hat|Pa BlueAction.005
+  - first:
+      74: -7714025978425416424
+    second: Hat|Pa BlueAction.006
+  - first:
+      74: -1361233216314433175
+    second: Hat|Pa BlueAction.009
+  - first:
+      74: 3721257169882543062
+    second: Hat|Pa BlueAction.010
+  - first:
+      74: -1803647323597704318
+    second: Hat|Pa BlueAction.011
+  - first:
+      74: 2735243294530751019
+    second: Hat|Pa BlueAction.012
+  - first:
+      74: 4272170380702776090
+    second: Hat|Pa BlueAction.013
+  - first:
+      74: -7984212131535689898
+    second: Hat|Pa BlueAction.014
+  - first:
+      74: -7657964358089532309
+    second: Hat|Pa BlueAction.023
+  - first:
+      74: -1444454444938606894
+    second: Hat|Pa BlueAction.024
+  - first:
+      74: -7521039345429242238
+    second: Hat|Pa BlueAction.025
+  - first:
+      74: -5873518588747223074
+    second: Hat|Pa BlueAction.026
+  - first:
+      74: 8758612261303371451
+    second: Hat|Pa BlueAction.027
+  - first:
+      74: -2198755811774079390
+    second: Hat|Pa BlueAction.028
+  - first:
+      74: -3801541203108956284
+    second: Hat|Pa.001Action
+  - first:
+      74: -7903566862995582859
+    second: Hat|Pa.001Action.001
+  - first:
+      74: -3383748000426413790
+    second: Hat|Pa.001Action.002
+  - first:
+      74: -4091083086816176126
+    second: Hat|Pa.001Action.003
+  - first:
+      74: -470897700355496651
+    second: Hat|Pa.001Action.004
+  - first:
+      74: -4998502365830041803
+    second: Hat|Pa.001Action.005
+  - first:
+      74: 6106462552366371071
+    second: Hat|Pa.001Action.006
+  - first:
+      74: -3580680405149032636
+    second: Hat|Pa.001Action.007
+  - first:
+      74: -8278581760812877472
+    second: Hat|Pa.001Action.009
+  - first:
+      74: -8230895147544762153
+    second: Hat|Pa.001Action.011
+  - first:
+      74: 8257131611240372203
+    second: Hat|Pa.001Action.012
+  - first:
+      74: -7688970852867097904
+    second: Hat|Pa.001Action.013
+  - first:
+      74: 4716373638701207521
+    second: Hat|Pa.001Action.014
+  - first:
+      74: 782172047054494156
+    second: Hat|Pa.001Action.015
+  - first:
+      74: -2550116512164792776
+    second: Hat|Pa.001Action.016
+  - first:
+      74: 7855202727024739431
+    second: Hat|Pa.002Action.001
+  - first:
+      74: -1692113266194254403
+    second: Hat|Pa.002Action.002
+  - first:
+      74: 6596752661992654408
+    second: Hat|Pa.002Action.003
+  - first:
+      74: -4870239706883142407
+    second: Hat|Pa.002Action.004
+  - first:
+      74: -6119524231946829485
+    second: Hat|Pa.002Action.005
+  - first:
+      74: 6495776064400286382
+    second: Hat|Pa.002Action.006
+  - first:
+      74: 2224489038785312621
+    second: Hat|Pa.002Action.014
+  - first:
+      74: 8321223169456402542
+    second: Hat|Pa.002Action.015
+  - first:
+      74: -1826950685274301178
+    second: Hat|Pa.002Action.016
+  - first:
+      74: 8064443396477153093
+    second: Hat|Pa.007Action
+  - first:
+      74: -3076313751529669404
+    second: Hat|Pa.007Action.002
+  - first:
+      74: 7916589850759266610
+    second: Hat|Pa.015Action
+  - first:
+      74: 8003124660811930407
+    second: Hat|Pa.015Action.003
+  - first:
+      74: 7364074499595952625
+    second: Hair|BD
+  - first:
+      74: 8226265065015375434
+    second: Hair|BD.001
+  - first:
+      74: 3796637018029111457
+    second: Hair|BD.002
+  - first:
+      74: 5914969146136244534
+    second: Hair|BD.003
+  - first:
+      74: 6588728015135565047
+    second: Hair|BD.004
+  - first:
+      74: 4767150278649290487
+    second: Hair|BD.005
+  - first:
+      74: -4603183295520973568
+    second: Hair|BD.006
+  - first:
+      74: -6727524844910724705
+    second: Hair|BD.006Action
+  - first:
+      74: 911809031003691279
+    second: Hair|BD.007
+  - first:
+      74: -472642165931060935
+    second: Hair|BD.008
+  - first:
+      74: -7656804727147949259
+    second: Hair|BD.009
+  - first:
+      74: -7106146210982379990
+    second: Hair|BD.010
+  - first:
+      74: 1783039773321401596
+    second: Hair|Cam MainAction.001
+  - first:
+      74: -885932037214034521
+    second: Hair|Cam MainAction.002
+  - first:
+      74: -7187765034736334192
+    second: Hair|Cam OHAction
+  - first:
+      74: -6253587639686016671
+    second: Hair|Eri Wait.001
+  - first:
+      74: -9008516369663986256
+    second: Hair|Eri Wait.002
+  - first:
+      74: 1247672445650619488
+    second: Hair|Eri Wait.003
+  - first:
+      74: -4708054242269731510
+    second: Hair|Eri Wait.004
+  - first:
+      74: 5027643463887490517
+    second: Hair|Eri Wait.005
+  - first:
+      74: -2697280332232943930
+    second: Hair|Eri Wait.006
+  - first:
+      74: -4847571286052102059
+    second: Hair|Eri Wait.007
+  - first:
+      74: 7397758464884699918
+    second: Hair|Eri Wait.008
+  - first:
+      74: 1720242688920434440
+    second: Hair|Eri Wait.009
+  - first:
+      74: -5604205231841886885
+    second: Hair|Eri Wait.010
+  - first:
+      74: -3032993827294213918
+    second: Hair|Eri Wait.011
+  - first:
+      74: -7674406918634356325
+    second: Hair|Eri Wait.012
+  - first:
+      74: -8086409620885292428
+    second: Hair|Legs.001Action
+  - first:
+      74: 3132413709899792321
+    second: Hair|Legs.009Action
+  - first:
+      74: -2936371210427639265
+    second: Hair|Legs.009Action.001
+  - first:
+      74: 4289703861388670541
+    second: Hair|Legs.011Action
+  - first:
+      74: -9106210010249685340
+    second: Hair|Legs.011Action.001
+  - first:
+      74: -5697270541939059249
+    second: Hair|Legs.012Action
+  - first:
+      74: 540176723675142427
+    second: Hair|Legs.012Action.001
+  - first:
+      74: -672243015164967965
+    second: Hair|Legs.013Action
+  - first:
+      74: -5290230366477271090
+    second: Hair|Legs.013Action.003
+  - first:
+      74: 5752949938849547184
+    second: Hair|Legs.014Action
+  - first:
+      74: -7269373744645811995
+    second: Hair|Legs.014Action.001
+  - first:
+      74: 5456788578389594648
+    second: Hair|Legs.015Action
+  - first:
+      74: 1736286895146996583
+    second: Hair|Legs.015Action.002
+  - first:
+      74: 7278690940509515864
+    second: Hair|Legs.016Action
+  - first:
+      74: -3855102735899240825
+    second: Hair|Legs.016Action.001
+  - first:
+      74: 7733008502912564494
+    second: Hair|Legs.017Action
+  - first:
+      74: 7998690556542789659
+    second: Hair|Legs.017Action.002
+  - first:
+      74: 4531299904715694709
+    second: Hair|Legs.018Action
+  - first:
+      74: 1113712235371603454
+    second: Hair|Legs.018Action.001
+  - first:
+      74: -1939854752555786388
+    second: Hair|Legs.024Action
+  - first:
+      74: 1520746424390856287
+    second: Hair|Legs.024Action.003
+  - first:
+      74: -2527696415375027129
+    second: Hair|Legs.025Action
+  - first:
+      74: -2348558923949380415
+    second: Hair|Legs.025Action.003
+  - first:
+      74: -2215978047427490172
+    second: Hair|Legs.028Action
+  - first:
+      74: -6408741954397501552
+    second: Hair|Legs.028Action.003
+  - first:
+      74: -3559414744899358259
+    second: Hair|Legs.030Action
+  - first:
+      74: 7698714505091665790
+    second: Hair|Legs.030Action.003
+  - first:
+      74: 7770898445977490361
+    second: Hair|Pa BlueAction.001
+  - first:
+      74: 6461312265110672156
+    second: Hair|Pa BlueAction.002
+  - first:
+      74: 4700175120284343034
+    second: Hair|Pa BlueAction.003
+  - first:
+      74: 1005863626712265314
+    second: Hair|Pa BlueAction.004
+  - first:
+      74: -7752613658622654103
+    second: Hair|Pa BlueAction.005
+  - first:
+      74: -6994470437743887610
+    second: Hair|Pa BlueAction.006
+  - first:
+      74: -7595598566777995036
+    second: Hair|Pa BlueAction.009
+  - first:
+      74: -1575882893726576246
+    second: Hair|Pa BlueAction.010
+  - first:
+      74: -8643024365751154667
+    second: Hair|Pa BlueAction.011
+  - first:
+      74: -2282426411840521260
+    second: Hair|Pa BlueAction.012
+  - first:
+      74: -6264229818837949561
+    second: Hair|Pa BlueAction.013
+  - first:
+      74: 3684369312480415530
+    second: Hair|Pa BlueAction.014
+  - first:
+      74: 5619599784675464467
+    second: Hair|Pa BlueAction.023
+  - first:
+      74: 8096417449857410097
+    second: Hair|Pa BlueAction.024
+  - first:
+      74: 6124592999309687953
+    second: Hair|Pa BlueAction.025
+  - first:
+      74: 7343566423835479734
+    second: Hair|Pa BlueAction.026
+  - first:
+      74: -7548185394191787528
+    second: Hair|Pa BlueAction.027
+  - first:
+      74: -5112723443886351060
+    second: Hair|Pa BlueAction.028
+  - first:
+      74: 8196477532758207072
+    second: Hair|Pa.001Action
+  - first:
+      74: 6270649563750155724
+    second: Hair|Pa.001Action.001
+  - first:
+      74: 7348987659636488881
+    second: Hair|Pa.001Action.002
+  - first:
+      74: -2722845835106964984
+    second: Hair|Pa.001Action.003
+  - first:
+      74: -1166698537759919809
+    second: Hair|Pa.001Action.004
+  - first:
+      74: -6261706881885411490
+    second: Hair|Pa.001Action.005
+  - first:
+      74: -2832027932283552556
+    second: Hair|Pa.001Action.006
+  - first:
+      74: 1950869727635335963
+    second: Hair|Pa.001Action.007
+  - first:
+      74: 9034290157814058
+    second: Hair|Pa.001Action.009
+  - first:
+      74: 5224122839656032367
+    second: Hair|Pa.001Action.011
+  - first:
+      74: 7646557624225589131
+    second: Hair|Pa.001Action.012
+  - first:
+      74: 8407384093309489902
+    second: Hair|Pa.001Action.013
+  - first:
+      74: -6031181403503980546
+    second: Hair|Pa.001Action.014
+  - first:
+      74: -6151523209266853715
+    second: Hair|Pa.001Action.015
+  - first:
+      74: -7885558394487009307
+    second: Hair|Pa.001Action.016
+  - first:
+      74: 4671539276513273528
+    second: Hair|Pa.002Action.001
+  - first:
+      74: -7748366820686517185
+    second: Hair|Pa.002Action.002
+  - first:
+      74: 6395552326319586238
+    second: Hair|Pa.002Action.003
+  - first:
+      74: 2451524127171289561
+    second: Hair|Pa.002Action.004
+  - first:
+      74: 8690983445022974882
+    second: Hair|Pa.002Action.005
+  - first:
+      74: 9047730282028772094
+    second: Hair|Pa.002Action.006
+  - first:
+      74: 7400342595280648496
+    second: Hair|Pa.002Action.014
+  - first:
+      74: 1270586361826295985
+    second: Hair|Pa.002Action.015
+  - first:
+      74: 3711737263424092465
+    second: Hair|Pa.002Action.016
+  - first:
+      74: -3537063059015068974
+    second: Hair|Pa.007Action
+  - first:
+      74: -2806015910168410996
+    second: Hair|Pa.007Action.002
+  - first:
+      74: 7784726385576230400
+    second: Hair|Pa.015Action
+  - first:
+      74: 5683890181164200685
+    second: Hair|Pa.015Action.003
+  - first:
+      74: 8974858665436272513
+    second: Head|BD
+  - first:
+      74: 7687948538838136116
+    second: Head|BD.001
+  - first:
+      74: 1212388313779668617
+    second: Head|BD.002
+  - first:
+      74: -8950079769923711493
+    second: Head|BD.003
+  - first:
+      74: 4118298119913690113
+    second: Head|BD.004
+  - first:
+      74: -3462325372157139582
+    second: Head|BD.005
+  - first:
+      74: 3188909375315085409
+    second: Head|BD.006
+  - first:
+      74: 6309346569834410201
+    second: Head|BD.006Action
+  - first:
+      74: 7251967658270578248
+    second: Head|BD.007
+  - first:
+      74: 3982415811770946299
+    second: Head|BD.008
+  - first:
+      74: -5287293532892502398
+    second: Head|BD.009
+  - first:
+      74: 530922220383179728
+    second: Head|BD.010
+  - first:
+      74: -6100717431153209404
+    second: Head|Cam MainAction.001
+  - first:
+      74: -2784631031788116360
+    second: Head|Cam MainAction.002
+  - first:
+      74: 3850748833492607665
+    second: Head|Cam OHAction
+  - first:
+      74: -8167423566275753129
+    second: Head|Eri Wait.001
+  - first:
+      74: 7170986044332095150
+    second: Head|Eri Wait.002
+  - first:
+      74: -2038359836769754355
+    second: Head|Eri Wait.003
+  - first:
+      74: -733395644607107619
+    second: Head|Eri Wait.004
+  - first:
+      74: -9211042378969664151
+    second: Head|Eri Wait.005
+  - first:
+      74: 8051954657923439039
+    second: Head|Eri Wait.006
+  - first:
+      74: -4974596377033966543
+    second: Head|Eri Wait.007
+  - first:
+      74: 3522716295425291784
+    second: Head|Eri Wait.008
+  - first:
+      74: 2420537146872662391
+    second: Head|Eri Wait.009
+  - first:
+      74: -1755092415308939292
+    second: Head|Eri Wait.010
+  - first:
+      74: 1470440917156378464
+    second: Head|Eri Wait.011
+  - first:
+      74: 5786425083853415667
+    second: Head|Eri Wait.012
+  - first:
+      74: 7733068958329349447
+    second: Head|Legs.001Action
+  - first:
+      74: 869828057811217455
+    second: Head|Legs.009Action
+  - first:
+      74: 5343032579856868421
+    second: Head|Legs.009Action.001
+  - first:
+      74: 862802147487141007
+    second: Head|Legs.011Action
+  - first:
+      74: 4302222860220412324
+    second: Head|Legs.011Action.001
+  - first:
+      74: 7098453414348920547
+    second: Head|Legs.012Action
+  - first:
+      74: -4890506358701554857
+    second: Head|Legs.012Action.001
+  - first:
+      74: 2654756536045229378
+    second: Head|Legs.013Action
+  - first:
+      74: -2148785809292133386
+    second: Head|Legs.013Action.003
+  - first:
+      74: -8100652214304051676
+    second: Head|Legs.014Action
+  - first:
+      74: -7436789129566637002
+    second: Head|Legs.014Action.001
+  - first:
+      74: 6006098364822836850
+    second: Head|Legs.015Action
+  - first:
+      74: -3403937395472966735
+    second: Head|Legs.015Action.002
+  - first:
+      74: -578775056886734913
+    second: Head|Legs.016Action
+  - first:
+      74: 5222996969171119743
+    second: Head|Legs.016Action.001
+  - first:
+      74: 8801638972950144437
+    second: Head|Legs.017Action
+  - first:
+      74: 1670361273744691628
+    second: Head|Legs.017Action.002
+  - first:
+      74: -4710055695261904122
+    second: Head|Legs.018Action
+  - first:
+      74: 5671572563485476119
+    second: Head|Legs.018Action.001
+  - first:
+      74: 1324702164790370873
+    second: Head|Legs.024Action
+  - first:
+      74: 5556729895298337579
+    second: Head|Legs.024Action.003
+  - first:
+      74: -5787796844335650265
+    second: Head|Legs.025Action
+  - first:
+      74: -8298759599868399883
+    second: Head|Legs.025Action.003
+  - first:
+      74: 6295601129241579230
+    second: Head|Legs.028Action
+  - first:
+      74: -2261427003433913202
+    second: Head|Legs.028Action.003
+  - first:
+      74: -5476861751893106738
+    second: Head|Legs.030Action
+  - first:
+      74: 413925936177012521
+    second: Head|Legs.030Action.003
+  - first:
+      74: 3139063122344391010
+    second: Head|Pa BlueAction.001
+  - first:
+      74: -7348816986414086017
+    second: Head|Pa BlueAction.002
+  - first:
+      74: 7105210467855864590
+    second: Head|Pa BlueAction.003
+  - first:
+      74: -1308033260512306334
+    second: Head|Pa BlueAction.004
+  - first:
+      74: -476047135727633087
+    second: Head|Pa BlueAction.005
+  - first:
+      74: -8333747118293473797
+    second: Head|Pa BlueAction.006
+  - first:
+      74: 2237051246149522369
+    second: Head|Pa BlueAction.009
+  - first:
+      74: 5295075308943182880
+    second: Head|Pa BlueAction.010
+  - first:
+      74: -1760661515918656296
+    second: Head|Pa BlueAction.011
+  - first:
+      74: -2838970939726853124
+    second: Head|Pa BlueAction.012
+  - first:
+      74: -442088186328479307
+    second: Head|Pa BlueAction.013
+  - first:
+      74: -7622229823084264286
+    second: Head|Pa BlueAction.014
+  - first:
+      74: 5654271316294749009
+    second: Head|Pa BlueAction.023
+  - first:
+      74: -7213027979956779198
+    second: Head|Pa BlueAction.024
+  - first:
+      74: 2826232874578191354
+    second: Head|Pa BlueAction.025
+  - first:
+      74: -8696315909237865793
+    second: Head|Pa BlueAction.026
+  - first:
+      74: -6324938753600090213
+    second: Head|Pa BlueAction.027
+  - first:
+      74: 374661257000839140
+    second: Head|Pa BlueAction.028
+  - first:
+      74: -2417701370426020517
+    second: Head|Pa.001Action
+  - first:
+      74: -9123002493239715433
+    second: Head|Pa.001Action.001
+  - first:
+      74: 2552000733732043786
+    second: Head|Pa.001Action.002
+  - first:
+      74: -10403651548021790
+    second: Head|Pa.001Action.003
+  - first:
+      74: -8907962532401067338
+    second: Head|Pa.001Action.004
+  - first:
+      74: -1756053305345281854
+    second: Head|Pa.001Action.005
+  - first:
+      74: -287082937063304144
+    second: Head|Pa.001Action.006
+  - first:
+      74: -4024586342988168406
+    second: Head|Pa.001Action.007
+  - first:
+      74: 2491854717013080558
+    second: Head|Pa.001Action.009
+  - first:
+      74: 1604092182362186256
+    second: Head|Pa.001Action.011
+  - first:
+      74: -4811979854177916418
+    second: Head|Pa.001Action.012
+  - first:
+      74: 396151602632342822
+    second: Head|Pa.001Action.013
+  - first:
+      74: -3374400551178600528
+    second: Head|Pa.001Action.014
+  - first:
+      74: 52761298212194353
+    second: Head|Pa.001Action.015
+  - first:
+      74: -7302866765535274493
+    second: Head|Pa.001Action.016
+  - first:
+      74: 8229620037677757823
+    second: Head|Pa.002Action.001
+  - first:
+      74: -3967210037506860909
+    second: Head|Pa.002Action.002
+  - first:
+      74: 4837967083020217149
+    second: Head|Pa.002Action.003
+  - first:
+      74: 6111851166925233934
+    second: Head|Pa.002Action.004
+  - first:
+      74: -3973744587416480793
+    second: Head|Pa.002Action.005
+  - first:
+      74: -5376918480447200261
+    second: Head|Pa.002Action.006
+  - first:
+      74: 6507815742927470458
+    second: Head|Pa.002Action.014
+  - first:
+      74: -1480754048002909985
+    second: Head|Pa.002Action.015
+  - first:
+      74: 1516305328740505328
+    second: Head|Pa.002Action.016
+  - first:
+      74: 6201023699467317736
+    second: Head|Pa.007Action
+  - first:
+      74: 3845090415103323281
+    second: Head|Pa.007Action.002
+  - first:
+      74: 7846426146825055329
+    second: Head|Pa.015Action
+  - first:
+      74: 3799860324330539682
+    second: Head|Pa.015Action.003
+  - first:
+      74: -3671910969346921669
+    second: Nose|BD
+  - first:
+      74: 6120147038692270644
+    second: Nose|BD.001
+  - first:
+      74: -86609145697784333
+    second: Nose|BD.002
+  - first:
+      74: 4992414547458092650
+    second: Nose|BD.003
+  - first:
+      74: 6472648250570599213
+    second: Nose|BD.004
+  - first:
+      74: -6731548035660152414
+    second: Nose|BD.005
+  - first:
+      74: -3146085523856802440
+    second: Nose|BD.006
+  - first:
+      74: -6320534890669368205
+    second: Nose|BD.006Action
+  - first:
+      74: 8191249428227294803
+    second: Nose|BD.007
+  - first:
+      74: 3541423718448933021
+    second: Nose|BD.008
+  - first:
+      74: 2794429359015396687
+    second: Nose|BD.009
+  - first:
+      74: 116269137649855405
+    second: Nose|BD.010
+  - first:
+      74: -6295676502953408497
+    second: Nose|Cam MainAction.001
+  - first:
+      74: 8260354991155050383
+    second: Nose|Cam MainAction.002
+  - first:
+      74: -1911468725955774104
+    second: Nose|Cam OHAction
+  - first:
+      74: -5652839697691616887
+    second: Nose|Eri Wait.001
+  - first:
+      74: 3331828548714226197
+    second: Nose|Eri Wait.002
+  - first:
+      74: 4278066410582922872
+    second: Nose|Eri Wait.003
+  - first:
+      74: 8004420136982335675
+    second: Nose|Eri Wait.004
+  - first:
+      74: 7783262515762438737
+    second: Nose|Eri Wait.005
+  - first:
+      74: 4868796380743850384
+    second: Nose|Eri Wait.006
+  - first:
+      74: -4367110782020376289
+    second: Nose|Eri Wait.007
+  - first:
+      74: 6012449877717703682
+    second: Nose|Eri Wait.008
+  - first:
+      74: -4376218550607708306
+    second: Nose|Eri Wait.009
+  - first:
+      74: 4615260975015967403
+    second: Nose|Eri Wait.010
+  - first:
+      74: -8456809503887094762
+    second: Nose|Eri Wait.011
+  - first:
+      74: 7386573995722433868
+    second: Nose|Eri Wait.012
+  - first:
+      74: -204111321894688960
+    second: Nose|Legs.001Action
+  - first:
+      74: 4981644992382170486
+    second: Nose|Legs.009Action
+  - first:
+      74: 958973173759748050
+    second: Nose|Legs.009Action.001
+  - first:
+      74: -816027666705226372
+    second: Nose|Legs.011Action
+  - first:
+      74: -407206410171681708
+    second: Nose|Legs.011Action.001
+  - first:
+      74: 615812350093400914
+    second: Nose|Legs.012Action
+  - first:
+      74: -5374780967200679166
+    second: Nose|Legs.012Action.001
+  - first:
+      74: 2121894049263347140
+    second: Nose|Legs.013Action
+  - first:
+      74: -2669706149784809151
+    second: Nose|Legs.013Action.003
+  - first:
+      74: 4255229951913328093
+    second: Nose|Legs.014Action
+  - first:
+      74: -5215311875016776555
+    second: Nose|Legs.014Action.001
+  - first:
+      74: 3797653185998054198
+    second: Nose|Legs.015Action
+  - first:
+      74: -6052731930050056202
+    second: Nose|Legs.015Action.002
+  - first:
+      74: -3590051641387922721
+    second: Nose|Legs.016Action
+  - first:
+      74: -7417267409517881292
+    second: Nose|Legs.016Action.001
+  - first:
+      74: 8440342738017400547
+    second: Nose|Legs.017Action
+  - first:
+      74: 528182893035672393
+    second: Nose|Legs.017Action.002
+  - first:
+      74: -6966613361460116696
+    second: Nose|Legs.018Action
+  - first:
+      74: -8989829932980363891
+    second: Nose|Legs.018Action.001
+  - first:
+      74: -6188847286698020528
+    second: Nose|Legs.024Action
+  - first:
+      74: -4968330752127485892
+    second: Nose|Legs.024Action.003
+  - first:
+      74: 8933694811385178699
+    second: Nose|Legs.025Action
+  - first:
+      74: 2856940847798236966
+    second: Nose|Legs.025Action.003
+  - first:
+      74: 3215829398615487331
+    second: Nose|Legs.028Action
+  - first:
+      74: 2170125553688281895
+    second: Nose|Legs.028Action.003
+  - first:
+      74: -8135314522175959205
+    second: Nose|Legs.030Action
+  - first:
+      74: 5449495580372743671
+    second: Nose|Legs.030Action.003
+  - first:
+      74: 4690614056395235203
+    second: Nose|Pa BlueAction.001
+  - first:
+      74: -5463696685155601732
+    second: Nose|Pa BlueAction.002
+  - first:
+      74: 5666833618195963305
+    second: Nose|Pa BlueAction.003
+  - first:
+      74: 1700455959943713081
+    second: Nose|Pa BlueAction.004
+  - first:
+      74: -338977463905390651
+    second: Nose|Pa BlueAction.005
+  - first:
+      74: 418986737488334798
+    second: Nose|Pa BlueAction.006
+  - first:
+      74: -4466790877790110544
+    second: Nose|Pa BlueAction.009
+  - first:
+      74: -4299743325633372504
+    second: Nose|Pa BlueAction.010
+  - first:
+      74: -3953092987777434731
+    second: Nose|Pa BlueAction.011
+  - first:
+      74: 8573310117656068537
+    second: Nose|Pa BlueAction.012
+  - first:
+      74: 6994924128368156891
+    second: Nose|Pa BlueAction.013
+  - first:
+      74: -8015550703483603435
+    second: Nose|Pa BlueAction.014
+  - first:
+      74: -1564081573710619255
+    second: Nose|Pa BlueAction.023
+  - first:
+      74: 6438960678386857060
+    second: Nose|Pa BlueAction.024
+  - first:
+      74: -2641926212348823709
+    second: Nose|Pa BlueAction.025
+  - first:
+      74: -7617890674055228664
+    second: Nose|Pa BlueAction.026
+  - first:
+      74: -3505558323946483919
+    second: Nose|Pa BlueAction.027
+  - first:
+      74: -3694258783128115743
+    second: Nose|Pa BlueAction.028
+  - first:
+      74: -8766243011189952946
+    second: Nose|Pa.001Action
+  - first:
+      74: 5472469457107565736
+    second: Nose|Pa.001Action.001
+  - first:
+      74: -6359269263317654855
+    second: Nose|Pa.001Action.002
+  - first:
+      74: 2233124685843146101
+    second: Nose|Pa.001Action.003
+  - first:
+      74: 4686036878853055768
+    second: Nose|Pa.001Action.004
+  - first:
+      74: -8075645669229217352
+    second: Nose|Pa.001Action.005
+  - first:
+      74: 5678401061554673765
+    second: Nose|Pa.001Action.006
+  - first:
+      74: -3733193757976195075
+    second: Nose|Pa.001Action.007
+  - first:
+      74: 4096550409491090037
+    second: Nose|Pa.001Action.009
+  - first:
+      74: 5326260876617991675
+    second: Nose|Pa.001Action.011
+  - first:
+      74: 8832271202742637328
+    second: Nose|Pa.001Action.012
+  - first:
+      74: -5886088246050349517
+    second: Nose|Pa.001Action.013
+  - first:
+      74: -7247216484353547356
+    second: Nose|Pa.001Action.014
+  - first:
+      74: 2709861621669898137
+    second: Nose|Pa.001Action.015
+  - first:
+      74: 3853427744149839569
+    second: Nose|Pa.001Action.016
+  - first:
+      74: -1683590254667245807
+    second: Nose|Pa.002Action.001
+  - first:
+      74: -3357775088152430589
+    second: Nose|Pa.002Action.002
+  - first:
+      74: 2129919258124581942
+    second: Nose|Pa.002Action.003
+  - first:
+      74: -1009966075657974945
+    second: Nose|Pa.002Action.004
+  - first:
+      74: 6452423401121014518
+    second: Nose|Pa.002Action.005
+  - first:
+      74: 2181631841144337274
+    second: Nose|Pa.002Action.006
+  - first:
+      74: -3607881172738301814
+    second: Nose|Pa.002Action.014
+  - first:
+      74: 6390771035023068127
+    second: Nose|Pa.002Action.015
+  - first:
+      74: -8233309821188318702
+    second: Nose|Pa.002Action.016
+  - first:
+      74: -4858061620850497491
+    second: Nose|Pa.007Action
+  - first:
+      74: -995945159807703012
+    second: Nose|Pa.007Action.002
+  - first:
+      74: 6380766999117711423
+    second: Nose|Pa.015Action
+  - first:
+      74: -8870673495198518119
+    second: Nose|Pa.015Action.003
+  - first:
+      74: 1728368845887260997
+    second: Eye R|BD
+  - first:
+      74: 5485921045576628254
+    second: Eye R|BD.001
+  - first:
+      74: 6611394703194496848
+    second: Eye R|BD.002
+  - first:
+      74: -5374834655859177399
+    second: Eye R|BD.003
+  - first:
+      74: 1870664666384017852
+    second: Eye R|BD.004
+  - first:
+      74: 3100760707490418769
+    second: Eye R|BD.005
+  - first:
+      74: 927486090731699729
+    second: Eye R|BD.006
+  - first:
+      74: 4532828859698922865
+    second: Eye R|BD.006Action
+  - first:
+      74: 2973175905051919122
+    second: Eye R|BD.007
+  - first:
+      74: -3445047193059374018
+    second: Eye R|BD.008
+  - first:
+      74: -4877475688982438476
+    second: Eye R|BD.009
+  - first:
+      74: -4080178461413017222
+    second: Eye R|BD.010
+  - first:
+      74: -4765550624473186871
+    second: Eye R|Cam MainAction.001
+  - first:
+      74: -490273968289406310
+    second: Eye R|Cam MainAction.002
+  - first:
+      74: 1358089728899709651
+    second: Eye R|Cam OHAction
+  - first:
+      74: 1275159065319477439
+    second: Eye R|Eri Wait.001
+  - first:
+      74: -3883177037505767246
+    second: Eye R|Eri Wait.002
+  - first:
+      74: 8780532166072801766
+    second: Eye R|Eri Wait.003
+  - first:
+      74: 4387458299780291292
+    second: Eye R|Eri Wait.004
+  - first:
+      74: -4875920658332287063
+    second: Eye R|Eri Wait.005
+  - first:
+      74: 7530763682372932269
+    second: Eye R|Eri Wait.006
+  - first:
+      74: -8588753655909001241
+    second: Eye R|Eri Wait.007
+  - first:
+      74: -7453565711707832534
+    second: Eye R|Eri Wait.008
+  - first:
+      74: -2303309090504669186
+    second: Eye R|Eri Wait.009
+  - first:
+      74: -8208937975400078187
+    second: Eye R|Eri Wait.010
+  - first:
+      74: -1660760468662088361
+    second: Eye R|Eri Wait.011
+  - first:
+      74: 3043124600046994749
+    second: Eye R|Eri Wait.012
+  - first:
+      74: -5694907870117285688
+    second: Eye R|Legs.001Action
+  - first:
+      74: 1086425078621009667
+    second: Eye R|Legs.009Action
+  - first:
+      74: 5477613343119196651
+    second: Eye R|Legs.009Action.001
+  - first:
+      74: -8359621323890346265
+    second: Eye R|Legs.011Action
+  - first:
+      74: 7813073133894211845
+    second: Eye R|Legs.011Action.001
+  - first:
+      74: -7355028463059871083
+    second: Eye R|Legs.012Action
+  - first:
+      74: -3311044934299154033
+    second: Eye R|Legs.012Action.001
+  - first:
+      74: -5501570307899536637
+    second: Eye R|Legs.013Action
+  - first:
+      74: 2808194496966642203
+    second: Eye R|Legs.013Action.003
+  - first:
+      74: 71003051562469577
+    second: Eye R|Legs.014Action
+  - first:
+      74: -4921219595686813816
+    second: Eye R|Legs.014Action.001
+  - first:
+      74: -6883776371526355389
+    second: Eye R|Legs.015Action
+  - first:
+      74: 1739698943583334873
+    second: Eye R|Legs.015Action.002
+  - first:
+      74: -6566157834160778730
+    second: Eye R|Legs.016Action
+  - first:
+      74: 2827874802039933996
+    second: Eye R|Legs.016Action.001
+  - first:
+      74: 4767988924746493403
+    second: Eye R|Legs.017Action
+  - first:
+      74: 2782777606846839782
+    second: Eye R|Legs.017Action.002
+  - first:
+      74: -914625949980389335
+    second: Eye R|Legs.018Action
+  - first:
+      74: -8410103942336846198
+    second: Eye R|Legs.018Action.001
+  - first:
+      74: -2301984842291530517
+    second: Eye R|Legs.024Action
+  - first:
+      74: 3297977883333235282
+    second: Eye R|Legs.024Action.003
+  - first:
+      74: 4537718613103797807
+    second: Eye R|Legs.025Action
+  - first:
+      74: -7829140130267770701
+    second: Eye R|Legs.025Action.003
+  - first:
+      74: -5050331143985568292
+    second: Eye R|Legs.028Action
+  - first:
+      74: 27548758010529707
+    second: Eye R|Legs.028Action.003
+  - first:
+      74: -1575016463013036153
+    second: Eye R|Legs.030Action
+  - first:
+      74: -3691721547827985408
+    second: Eye R|Legs.030Action.003
+  - first:
+      74: 5597370390835061388
+    second: Eye R|Pa BlueAction.001
+  - first:
+      74: -1483925095950845848
+    second: Eye R|Pa BlueAction.002
+  - first:
+      74: -8200613994399357592
+    second: Eye R|Pa BlueAction.003
+  - first:
+      74: -562035527606539792
+    second: Eye R|Pa BlueAction.004
+  - first:
+      74: -708958398101131527
+    second: Eye R|Pa BlueAction.005
+  - first:
+      74: 2218330161084403342
+    second: Eye R|Pa BlueAction.006
+  - first:
+      74: -698392874823677887
+    second: Eye R|Pa BlueAction.009
+  - first:
+      74: -8212267504444697122
+    second: Eye R|Pa BlueAction.010
+  - first:
+      74: 5561200236456377475
+    second: Eye R|Pa BlueAction.011
+  - first:
+      74: -8145584402304383868
+    second: Eye R|Pa BlueAction.012
+  - first:
+      74: 1176619461142481783
+    second: Eye R|Pa BlueAction.013
+  - first:
+      74: 2951162307073658448
+    second: Eye R|Pa BlueAction.014
+  - first:
+      74: -8309494164964078607
+    second: Eye R|Pa BlueAction.023
+  - first:
+      74: -5025535276788374144
+    second: Eye R|Pa BlueAction.024
+  - first:
+      74: -4741719926322239183
+    second: Eye R|Pa BlueAction.025
+  - first:
+      74: 3868684056601429701
+    second: Eye R|Pa BlueAction.026
+  - first:
+      74: 6719123214420571195
+    second: Eye R|Pa BlueAction.027
+  - first:
+      74: 5966966299967009769
+    second: Eye R|Pa BlueAction.028
+  - first:
+      74: 6417882448308611848
+    second: Eye R|Pa.001Action
+  - first:
+      74: -5682894008768566980
+    second: Eye R|Pa.001Action.001
+  - first:
+      74: 5183347027258394192
+    second: Eye R|Pa.001Action.002
+  - first:
+      74: 6193290291175446214
+    second: Eye R|Pa.001Action.003
+  - first:
+      74: -4928398323656235385
+    second: Eye R|Pa.001Action.004
+  - first:
+      74: 193613095732862630
+    second: Eye R|Pa.001Action.005
+  - first:
+      74: -5838158205131312478
+    second: Eye R|Pa.001Action.006
+  - first:
+      74: 6133482683228223648
+    second: Eye R|Pa.001Action.007
+  - first:
+      74: -5464121186859857346
+    second: Eye R|Pa.001Action.009
+  - first:
+      74: -8732379112120753785
+    second: Eye R|Pa.001Action.011
+  - first:
+      74: -4753114008801033818
+    second: Eye R|Pa.001Action.012
+  - first:
+      74: 4557589812379866248
+    second: Eye R|Pa.001Action.013
+  - first:
+      74: -1373460168187278065
+    second: Eye R|Pa.001Action.014
+  - first:
+      74: -2459627638566836277
+    second: Eye R|Pa.001Action.015
+  - first:
+      74: -7042061070130653805
+    second: Eye R|Pa.001Action.016
+  - first:
+      74: -6823655198970955924
+    second: Eye R|Pa.002Action.001
+  - first:
+      74: 8330472265413905295
+    second: Eye R|Pa.002Action.002
+  - first:
+      74: -2989125664971378491
+    second: Eye R|Pa.002Action.003
+  - first:
+      74: 3261266339992784891
+    second: Eye R|Pa.002Action.004
+  - first:
+      74: -1827342914069832037
+    second: Eye R|Pa.002Action.005
+  - first:
+      74: -7363706130663144548
+    second: Eye R|Pa.002Action.006
+  - first:
+      74: -3253448331064854264
+    second: Eye R|Pa.002Action.014
+  - first:
+      74: 7164393906725969911
+    second: Eye R|Pa.002Action.015
+  - first:
+      74: -7742720271560132390
+    second: Eye R|Pa.002Action.016
+  - first:
+      74: -2776931325075336723
+    second: Eye R|Pa.007Action
+  - first:
+      74: -1828087264347740631
+    second: Eye R|Pa.007Action.002
+  - first:
+      74: 4613422141244982416
+    second: Eye R|Pa.015Action
+  - first:
+      74: -2525228865400956837
+    second: Eye R|Pa.015Action.003
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
