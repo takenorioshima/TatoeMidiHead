@@ -162,16 +162,6 @@ public class Brain : MonoBehaviour
                 colorIndex = 0;
             }
         }
-        else if (TEGetKeyUp(4))
-        {
-            camFront.DOColor(colorList[colorIndex], 0.2f);
-            cam45.DOColor(colorList[colorIndex], 0.2f);
-            colorIndex += 1;
-            if (colorIndex >= colorList.Count)
-            {
-                colorIndex = 0;
-            }
-        }
 
         // 5. Eri+Take - Shrink Faces
         if (TEGetKeyDown(5))
