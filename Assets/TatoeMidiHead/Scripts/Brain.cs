@@ -12,7 +12,9 @@ public class Brain : MonoBehaviour
     Camera cam45;
     Cam45Script cam45Script;
     CamFrontScript camFrontScript;
-    
+    GameObject storm;
+    ParticleSystem stormParticleSystem;
+
     public Transform
             eri,
             eriFace,
@@ -90,6 +92,9 @@ public class Brain : MonoBehaviour
         cam45Script.isWired = false;
         eriLasers.SetActive(false);
         takeLasers.SetActive(false);
+        storm = GameObject.Find("Storm");
+        stormParticleSystem = storm.GetComponent<ParticleSystem>();
+        stormParticleSystem.Play();
     }
 
     void Update()
@@ -114,6 +119,7 @@ public class Brain : MonoBehaviour
         {
             camFront.orthographicSize = 3f;
             cam45.orthographicSize = 3f;
+            stormParticleSystem.Play();
         }
         else if (TEGetKeyUp(1))
         {
@@ -182,6 +188,7 @@ public class Brain : MonoBehaviour
         // 6. Camera - Shake
         if (TEGetKeyDown(6))
         {
+            stormParticleSystem.Play();
             camFront.DOShakePosition(1.0f, 1.0f, 5, 3.0f, true);
             cam45.DOShakePosition(1.0f, 1.0f, 5, 3.0f, true);
         }
@@ -235,6 +242,7 @@ public class Brain : MonoBehaviour
         // 11. Take+Eri - Rotate
         if (TEGetKey(11))
         {
+            stormParticleSystem.Play();
             eri.Rotate(new Vector3(0, 360, 0) * Time.deltaTime);
             take.Rotate(new Vector3(0, 270, 0) * Time.deltaTime);
         }
