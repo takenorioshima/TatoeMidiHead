@@ -14,70 +14,56 @@ public class Brain : MonoBehaviour
     CamFrontScript camFrontScript;
     GameObject storm;
     ParticleSystem stormParticleSystem;
+    public Transform eri, eriFace, eriHat, take, takeFace, takeGlasses, takeLips;
+    public GameObject eriLasers, takeLasers;
 
-    public Transform
-            eri,
-            eriFace,
-            eriHat,
-            take,
-            takeFace,
-            takeGlasses;
-
-    public GameObject
-            eriLasers,
-            takeLasers;
-
-    List<Color>
-        colorList =
-            new List<Color>()
-            {
-                new Color32(183, 188, 155, 255),
-                new Color32(51, 191, 79, 255),
-                new Color32(45, 148, 206, 255),
-                new Color32(220, 72, 41, 255),
-                new Color32(255, 208, 0, 255)
-            };
+    List<Color> colorList = new List<Color>()
+    {
+        new Color32(183, 188, 155, 255),
+        new Color32(51, 191, 79, 255),
+        new Color32(45, 148, 206, 255),
+        new Color32(220, 72, 41, 255),
+        new Color32(255, 208, 0, 255)
+    };
 
     int colorIndex = 0;
 
     // Map keys & notes that triggers animations
-    string[]
-        keys =
-        {
-            "0",
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "space",
-            "escape",
-            "z",
-            "w"
-        };
+    string[] keys =
+    {
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "space",
+        "escape",
+        "z",
+        "w"
+    };
 
-    int[][]
-        notes =
-        {
-            new int[] { 36 },
-            new int[] { 37, 50, 63, 76, 89, 102, 49 },
-            new int[] { 38, 51, 64, 77, 90, 103 },
-            new int[] { 39, 52, 65, 78, 91, 104, 62 },
-            new int[] { 40, 53, 66, 79, 92, 105 },
-            new int[] { 41, 54, 67, 80, 93, 106 },
-            new int[] { 42, 55, 68, 81, 94, 107 },
-            new int[] { 43, 56, 69, 82, 95, 108, 75 },
-            new int[] { 44, 57, 70, 83, 96, 109, 88 },
-            new int[] { 45, 58, 71, 84, 97, 110 },
-            new int[] { 46, 59, 72, 85, 98, 111, 101 },
-            new int[] { 47, 60, 73, 86, 99, 112 },
-            new int[] { 48, 61, 74, 87, 100, 113 },
-            new int[] { 38, 62, 86 }
-        };
+    int[][] notes =
+    {
+        new int[] { 36 },
+        new int[] { 37, 50, 63, 76, 89, 102, 49 },
+        new int[] { 38, 51, 64, 77, 90, 103 },
+        new int[] { 39, 52, 65, 78, 91, 104, 62 },
+        new int[] { 40, 53, 66, 79, 92, 105 },
+        new int[] { 41, 54, 67, 80, 93, 106 },
+        new int[] { 42, 55, 68, 81, 94, 107 },
+        new int[] { 43, 56, 69, 82, 95, 108, 75 },
+        new int[] { 44, 57, 70, 83, 96, 109, 88 },
+        new int[] { 45, 58, 71, 84, 97, 110 },
+        new int[] { 46, 59, 72, 85, 98, 111, 101 },
+        new int[] { 47, 60, 73, 86, 99, 112 },
+        new int[] { 48, 61, 74, 87, 100, 113 },
+        new int[] { 38, 62, 86 }
+    };
 
     void Start()
     {
@@ -131,17 +117,19 @@ public class Brain : MonoBehaviour
         if (TEGetKeyDown(2))
         {
             takeGlasses.DOScaleZ(15, 0.5f);
+            takeLips.DOLocalRotate(new Vector3(0, 170, 0), 0.5f);
         }
         else if (TEGetKeyUp(2))
         {
             takeGlasses.DOScaleZ(1, 0.5f);
+            takeLips.DOLocalRotate(new Vector3(0, 0, 0), 0.5f);
         }
 
         // 3. Eri - Enlarge Hat
         if (TEGetKeyDown(3))
         {
             eriHat.DOLocalRotate(new Vector3(0, 170, 0), 0.5f);
-            eriHat.DOScale(1.2f, 0.5f);
+            eriHat.DOScale(1.4f, 0.5f);
             eriHat.DOLocalMove(new Vector3(0, 2f, 0.3f), 0.5f);
         }
         else if (TEGetKeyUp(3))
@@ -268,9 +256,11 @@ public class Brain : MonoBehaviour
 
     // Check input states
     private bool TEGetKeyDown(int index)
-    {
-        // Debug.Log(Input.GetKeyDown(keys[index]));
+    {   
+        // Keyboard Input
         if (Input.GetKeyDown(keys[index])) return true;
+
+        // MIDI Input
         for (int i = 0; i < notes[index].Length; i++)
         {
             if (MidiMaster.GetKeyDown(notes[index][i])) return true;
@@ -280,7 +270,10 @@ public class Brain : MonoBehaviour
 
     private bool TEGetKeyUp(int index)
     {
+        // Keyboard Input
         if (Input.GetKeyUp(keys[index])) return true;
+
+        // MIDI Input
         for (int i = 0; i < notes[index].Length; i++)
         {
             if (MidiMaster.GetKeyUp(notes[index][i])) return true;
@@ -290,7 +283,10 @@ public class Brain : MonoBehaviour
 
     private bool TEGetKey(int index)
     {
+        // Keyboard Input
         if (Input.GetKey(keys[index])) return true;
+
+        // MIDI Input
         for (int i = 0; i < notes[index].Length; i++)
         {
             if (MidiMaster.GetKey(notes[index][i]) > 0) return true;

@@ -494,7 +494,7 @@ GameObject:
   - component: {fileID: 544168708}
   - component: {fileID: 544168707}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: Storm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5753,6 +5753,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isWired: 0
+--- !u!4 &968032720 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3655723422739406393, guid: e5f34eb4b19bb4e4faf9c0cf79b7d62c,
+    type: 3}
+  m_PrefabInstance: {fileID: 887044178}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1487832502 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8469413278564613524, guid: f25b1a24d7afc4f31a98fe6c9f367a32,
@@ -6086,13 +6092,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53e0bb615102c45f88edb57bdff30bca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  storm: {fileID: 0}
   eri: {fileID: 21107346}
   eriFace: {fileID: 1935231881}
   eriHat: {fileID: 1487832502}
   take: {fileID: 890796755}
   takeFace: {fileID: 94696418}
   takeGlasses: {fileID: 703115556}
+  takeLips: {fileID: 968032720}
   eriLasers: {fileID: 478720757}
   takeLasers: {fileID: 1904903328}
 --- !u!4 &1920196240
